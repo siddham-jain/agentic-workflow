@@ -1,4 +1,4 @@
-# Zen Multi-Agentic Workflow
+# Multi-Agentic Workflow
 
 A Python ReAct-style analytical agent that answers multi-step financial questions by dynamically selecting tools, logging its reasoning, and self-correcting when errors are found.
 
