@@ -1,0 +1,10 @@
+{
+  "current_yield": "The annual income (interest or dividends) divided by the current price of the security. Measures the return on investment at the current market price.",
+  "pe_ratio": "Price-to-Earnings ratio. A valuation ratio comparing a company's current share price to its earnings per share. Higher P/E suggests investors expect higher growth.",
+  "compound_interest": "Interest calculated on the initial principal and also on the accumulated interest of previous periods.",
+  "coupon_rate": "The annual interest rate paid on a bond, expressed as a percentage of the face value.",
+  "face_value": "The nominal or dollar value of a security as stated by the issuer. For bonds, it's the amount paid at maturity.",
+  "earnings_per_share": "The portion of a company's profit allocated to each outstanding share of common stock.",
+  "market_price": "The current price at which an asset or service can be bought or sold.",
+  "dividend_yield": "A financial ratio showing how much a company pays in dividends each year relative to its stock price."
+}

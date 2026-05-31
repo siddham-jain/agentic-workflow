@@ -1,0 +1,11 @@
+{
+  "stock_tickers": {
+    "AAPL": "Apple Inc. - Technology company",
+    "MSFT": "Microsoft Corporation - Technology company",
+    "GOOGL": "Alphabet Inc. - Technology company",
+    "AMZN": "Amazon.com Inc. - E-commerce and cloud computing"
+  },
+  "pe_ratio_interpretation": "A P/E ratio below 15 may indicate undervaluation, while above 25 may indicate overvaluation. Compare within the same industry.",
+  "yield_vs_coupon": "Coupon rate is fixed at issuance based on face value. Current yield fluctuates with market price. When price falls below face value, current yield rises above coupon rate.",
+  "bond_pricing": "Bonds trade at premium when price > face value (yield < coupon). Bonds trade at discount when price < face value (yield > coupon)."
+}

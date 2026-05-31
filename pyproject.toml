@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "zen-multi-agentic-workflow"
+version = "0.1.0"
+description = "LangGraph-based ReAct agent with OpenRouter and Exa API"
+requires-python = ">=3.11"
+dependencies = [
+    "langgraph>=0.0.40",
+    "langchain-core>=0.1.0",
+    "langchain-openai>=0.0.5",
+    "httpx>=0.25.0",
+    "python-dotenv>=1.0.0",
+]
+
+[project.optional-dependencies]
+dev = []
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["agent*", "tools*", "utils*"]
+exclude = ["data*", "traces*"]
